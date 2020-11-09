@@ -15,7 +15,7 @@
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
-    "isPausable": false,
+    "isPausable": true,
     "requiresUserInteraction": true,
     "supportsPersistence": false,
     "excludedLoggedData": [
